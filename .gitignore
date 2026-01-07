@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Generated files
+*.pdf
+cheques_generes/
+cheques_exemple.csv
+cheques_millions.csv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
